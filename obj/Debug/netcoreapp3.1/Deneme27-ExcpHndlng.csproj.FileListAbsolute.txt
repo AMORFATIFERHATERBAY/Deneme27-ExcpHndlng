@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/bin/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/bin/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/bin/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/bin/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.dll
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/bin/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.dll
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Deneme27-ExcpHndlng/obj/Debug/netcoreapp3.1/Deneme27-ExcpHndlng.genruntimeconfig.cache

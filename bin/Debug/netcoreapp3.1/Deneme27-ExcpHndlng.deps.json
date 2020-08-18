@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Deneme27-ExcpHndlng/1.0.0": {
+        "runtime": {
+          "Deneme27-ExcpHndlng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deneme27-ExcpHndlng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -32,9 +32,9 @@ namespace Deneme27_ExcpHndlng
             set
             {
                 if (value > 99)
-                throw new HataliMetrikIstisnasi(value, "Santim Özelliği");
+                    throw new HataliMetrikIstisnasi(value, "Santim Özelliği");
 
-                mSantim =value;
+                mSantim = value;
             }
         }
     }
@@ -69,6 +69,15 @@ namespace Deneme27_ExcpHndlng
         static void Main(string[] args)
         {
             //    Console.WriteLine("\nHello World...\n");
+            Metrik m = new Metrik(10, 55);
+            try
+            {
+                m.Santim = 560;
+            }
+            catch (HataliMetrikIstisnasi e)
+            {
+                    Console.WriteLine(e.ToString());
+            }
 
         }
     }

@@ -72,7 +72,8 @@ namespace Deneme27_ExcpHndlng
             Metrik m = new Metrik(10, 55);
             try
             {
-                m.Santim = 560;
+                m.Santim = 56;
+                m.DegerVer(3,190);
             }
             catch (HataliMetrikIstisnasi e)
             {
